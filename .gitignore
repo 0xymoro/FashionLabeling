@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+DeepFashion/Anno_coarse/list_attr_img.txt
+DeepFashion/img
+*.jpg
